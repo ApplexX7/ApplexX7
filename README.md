@@ -1,5 +1,5 @@
 # 💫 About Me:
-No cap : The compiler bows to my coding prowess!
+🤖 No cap : The compiler bows to my coding prowess!
 
 [![mohilali's 42 stats](https://badge.mediaplus.ma/levi/mohilali)](https://github.com/oakoudad/badge42)
 
