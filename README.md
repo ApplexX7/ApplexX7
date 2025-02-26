@@ -31,6 +31,8 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" height="30" alt="Go logo" />
   <img width ="12">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" height="30" alt="docker logo">
+  <img width ="12">
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain.svg" height="30" alt="django logo">
 </div>
 
 ###
