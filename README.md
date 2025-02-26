@@ -28,7 +28,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"/>
   <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width ="45" height="35" alt="Go logo" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" height="30" alt="Go logo" />
 </div>
 
 ###
