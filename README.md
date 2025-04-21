@@ -15,23 +15,6 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ApplexX7/count.svg?"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm ApplexX from morocco<br><br>- 🔭 I’m working as student right now<br>- 📚 I'm currently learning go and ts<br>- ⚡ In my free time I'm still coding or playing :)</p>
-
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
