@@ -96,4 +96,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ApplexX7/ApplexX7/output/pacman-contribution-graph.svg">
 </picture>
 
-![Spotify Now Playing](https://spotify-github-profile.kittinanx.com/api/view.svg?                uid=31xzxsuth5wbiwdgnvj32sx2gm4a&cover_image=true&theme=novatorem&show_offline=false&background_color=9d5353&interchange=false&bar_color=3ae534&bar_color_cover=true)
+![Spotify Now Playing](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31xzxsuth5wbiwdgnvj32sx2gm4a&cover_image=true&theme=novatorem&show_offline=false&background_color=9d5353&interchange=false&bar_color=3ae534&bar_color_cover=true)
