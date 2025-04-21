@@ -2,6 +2,8 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/mohammed-hilali-3a05b7353/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -17,24 +19,30 @@
   </a>
 </div>
 
+###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/ApplexX7/count.svg?"  />
 </div>
 
-
+###
 
 <h1 align="center">hey there 👋</h1>
 
-
+###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-
+###
 
 <p align="left">I'm ApplexX from morocco<br><br>- 🔭 I’m working as student right now<br>- 📚 I'm currently learning go and ts<br>- ⚡ In my free time I'm still coding or playing :)</p>
 
+###
 
 <h3 align="left">🛠 Language and tools</h3>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
@@ -59,8 +67,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
+###
+
 <br clear="both">
+
 <h3 align="left"></h3>
+
+###
+
 <br clear="both">
 
 <div align="center">
@@ -69,8 +83,12 @@
   <img src="https://streak-stats.demolab.com?user=ApplexX7&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5&date_format=n/j%5B/Y%5D&order=3" height="220" alt="streak graph"  />
 </div>
 
+###
+
 <div align="left">
 </div>
+
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ApplexX7/ApplexX7/output/pacman-contribution-graph-dark.svg">
@@ -78,6 +96,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ApplexX7/ApplexX7/output/pacman-contribution-graph.svg">
 </picture>
 
+###
 <br clear="both">
 
 <div align="center">
