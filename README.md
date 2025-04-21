@@ -63,13 +63,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 ###
-
 <br clear="both">
-
 <h3 align="left"></h3>
-
 ###
-
 <br clear="both">
 
 <div align="center">
@@ -77,14 +73,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ApplexX7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&order=2" height="220" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=ApplexX7&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5&date_format=n/j%5B/Y%5D&order=3" height="220" alt="streak graph"  />
 </div>
-
 ###
-
 <div align="left">
 </div>
-
 ###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ApplexX7/ApplexX7/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ApplexX7/ApplexX7/output/pacman-contribution-graph.svg">
