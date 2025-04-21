@@ -1,7 +1,4 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
+<h2 align="left">Hi 👋 !My name is ApplexX and I'm a Aspiring Software Developer/Engineer</h2>
 ###
 
 <div align="center">
