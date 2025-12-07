@@ -47,16 +47,5 @@
 
 <h3 align="left"></h3>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ApplexX7&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" width="335" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ApplexX7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&order=2" height="220" alt="languages graph"  />
-</div>
-
-###
-
 <div align="left">
 </div>
