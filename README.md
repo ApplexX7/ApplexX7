@@ -9,7 +9,7 @@
   <a href="https://discord.com/users/571690590442356736" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/mohammed-hilali-3a05b7353" target="_blank">
+  <a href="https://x.com/MhdHilali" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
   <a href="mailto:mr.mhdhilali@gmail.com" target="_blank">
