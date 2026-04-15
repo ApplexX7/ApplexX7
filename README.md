@@ -36,7 +36,11 @@
 ### <h3 align="center">Tech Stack</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a align="center" href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,bash,c,cpp,django,docker,express,fastapi,firebase,git,go,js,linux,mongodb,mysql,postgres,py,react,nextjs,nodejs,tailwind,ts,redis&perline=10" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ApplexX7&show_icons=true&locale=en" />
 </p>
