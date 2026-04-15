@@ -2,13 +2,16 @@
   Hi 👋, I'm ApplexX
 </h2>
 
+
 <p align="center">
-  Software Engineer focused on backend engineering  and systems design
+  Software Engineer focused on Backend Engineering and Systems Design Engineering
 </p>
+
 
 <p align="center">
   🌐 Portfolio: <a href="https://applexx.me" target="_blank">applexx.me</a>
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammed-hilali-3a05b7353/" target="_blank">
@@ -30,12 +33,10 @@
 
 ---
 
-### <h3 align="center">My Tech Stack</h3>
+### <h3 align="center">Tech Stack</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,bash,c,cpp,django,docker,express,fastapi,firebase,git,go,js,linux,mongodb,mysql,postgres,py,react,nextjs,nodejs,tailwind,ts,redis&perline=10" />
   </a>
 </p>
-
-
