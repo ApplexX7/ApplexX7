@@ -25,5 +25,5 @@
 ### <h3 align="center">Languages & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,bash,c,cpp,cs,django,docker,express,fastapi,firebase,gcp,git,go,java,js,linux,mongodb,mysql,postgres,py,react,nextjs,nodejs,tailwind,ts,redis,tensorflow,pytorch&perline=10" />
+  <img src="https://skillicons.dev/icons?i=angular,bash,c,cpp,django,docker,express,fastapi,firebase,git,go,js,linux,mongodb,mysql,postgres,py,react,nextjs,nodejs,tailwind,ts,redis&perline=10" />
 </p>
