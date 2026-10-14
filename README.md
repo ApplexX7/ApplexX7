@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  Software Engineer focused on Backend/ML Engineering and Systems Design Engineering
+  Software Engineer focused on Backend/ML and Systems Design Engineering
 </p>
 
 
