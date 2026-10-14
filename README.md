@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  🌐 Links: <a href="https://applexx.me" target="_blank">applexx.me</a>
+  🌐<a href="https://applexx.me" target="_blank">Links</a>
 </p>
 
 
